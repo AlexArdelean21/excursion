@@ -1,3 +1,4 @@
+
 body { 
 background-color: #000000;
 text-align: center;
@@ -14,7 +15,7 @@ color: #ffffff
 
 .header--sub-header{
 font-size: 21px;
-color: #ffffff;
+color: grey;
 }
 .header--main { 
 font-weight: normal;
@@ -26,3 +27,8 @@ color: #ffffff;
 font-size: 16px;
 color: aguamarine;
 }
+
+.footer--copyright {
+font-size: 21px;
+color: aquamarine;
+text-align: right;
